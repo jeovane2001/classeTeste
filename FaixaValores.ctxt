@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FaixaValores
+comment1.params=minimo\ maximo\ unidade
+comment1.target=FaixaValores(double,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getMinimo()
+comment3.params=
+comment3.target=double\ getMaximo()
+comment4.params=
+comment4.target=java.lang.String\ getUnidade()
+numComments=5

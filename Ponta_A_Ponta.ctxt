@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ponta_A_Ponta
+comment1.params=
+comment1.target=Ponta_A_Ponta()
+comment2.params=Referencia
+comment2.target=void\ ResultadoReferexia(java.lang.String)
+comment3.params=Referecia
+comment3.target=java.lang.String\ VerResultadoReferexia(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ VerResultado()
+numComments=5

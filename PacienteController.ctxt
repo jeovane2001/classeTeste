@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PacienteController
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=
+comment2.target=void\ adicionarPaciente()
+comment3.params=
+comment3.target=void\ carregarPacientes()
+numComments=4
